@@ -1,1 +1,6 @@
-# HackerRank-MYSQL-solutions
+# HackerRank-MYSQL-solutions# SQL
+
+|      Subdomain      |                                                           Challenge                                                          | Points |                                                                           Solution                                                                          |
+|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     Basic Select    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               |   10   | [MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/fce47689fd55cc91c3df1332ae95e57dbe564428/Select/Revising%20the%20Select%20Query%20I)|
+|     Basic Select    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                            |   10   | [MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/fce47689fd55cc91c3df1332ae95e57dbe564428/Select/Revising%20the%20Select%20Query%20II)|
