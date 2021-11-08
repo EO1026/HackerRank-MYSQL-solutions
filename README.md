@@ -12,6 +12,14 @@
 |     Basic Select    | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/92b4c8672cbf20750fe8e89f58751bac5050a045/Select/Weather%20Observation%20Station%204) |
 |     Basic Select    | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/c24c7daeeb58cc9e0555e8aa69e0d4140e12fdc6/Select/Weather%20Observation%20Station%205) |
 |     Basic Select    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/5f084675ea6cc3e4f765b5e1a2a3869435c34a8c/Select/Weather%20Observation%20Station%206) |
+|     Basic Select    | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/4493257019626342688beee9053e448172abf4c8/Select/Weather%20Observation%20Station%207) |
+|     Basic Select    | [Weather Observation Station 8*](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/c90de3ea0a0af71223d9dc196e4634b8d9e99478/Select/Weather%20Observation%20Station%208) |
+|     Basic Select    | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/95c7ffd0c38c7df2688d8d0725f2d67d9d5638d0/Select/Weather%20Observation%20Station%209) |
+|     Basic Select    | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)                                         |[MySQL Solution]https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/b75b109ab4e4b7a271170d476d8819ab37e531de/Select/Weather%20Observation%20Station%2010) |
+|     Basic Select    | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)                                         |[MySQL Solution]https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/38c10f211aa3407c6191ce07ecbcf50415e32630/Select/Weather%20Observation%20Station%2011) |
+
+
+
 
 |     Basic Select    | [Weather Observation Station ]()                                         |[MySQL Solution]() |
 
