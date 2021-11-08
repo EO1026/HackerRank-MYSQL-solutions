@@ -1,0 +1,3 @@
+SELECT DISTINCT city FROM station 
+WHERE not city REGEXP  '[a,e,i,o,u]$'
+OR not city REGEXP '^[a,e,i,o,u]'
