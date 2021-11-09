@@ -21,7 +21,7 @@
 |     Basic Select    | [Higher Than 75 Marks*](https://www.hackerrank.com/challenges/more-than-75-marks/proble)  |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/25ce18e0415e9574d42f15edd3f352c08adbf1e2/Select/Higher%20Than%2075%20Marks) |
 |     Basic Select    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/5a7cca1d6b317153be9a9d98a789c4b1b7b6271e/Select/Employee%20Names) |
 |     Basic Select    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/f4c91278afee83d9daedb33df56319aa6638f5cf/Select/Employee%20Salaries) |
-|     Basic Select    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/38c10f211aa3407c6191ce07ecbcf50415e32630/Select/Weather%20Observation%20Station%2011) |
+|     Basic Select    | [Type of Triangle*](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/38c10f211aa3407c6191ce07ecbcf50415e32630/Select/Weather%20Observation%20Station%2011) |
 
 
 |     Basic Select    | [Weather Observation Station ]()                                         |[MySQL Solution]() |
