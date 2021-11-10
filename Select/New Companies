@@ -1,0 +1,6 @@
+SELECT CASE WHEN p is NULL THEN CONCAT(n, ' Root')
+            WHEN n IN (SELECT DISTINCT P FROM BST) THEN CONCAT(n, ' Inner')
+            ELSE CONCAT(n, ' Leaf')
+       END
+FROM BST
+ORDER BY n ASC
