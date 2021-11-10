@@ -23,6 +23,11 @@
 |     Basic Select    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/f4c91278afee83d9daedb33df56319aa6638f5cf/Select/Employee%20Salaries) |
 |     Basic Select    | [Type of Triangle*](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/38c10f211aa3407c6191ce07ecbcf50415e32630/Select/Weather%20Observation%20Station%2011) |
 
+|     Advanced Select    | [The PADS*](https://www.hackerrank.com/challenges/the-pads/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/1a9ac8093ccf3d08a41f9c4401b9bfaacc202b23/Select/The%20PADS) |
+|     Advanced Select    | [Occupations**](https://www.hackerrank.com/challenges/occupations/problem)                                         |[MySQL Solution](https://www.hackerrank.com/challenges/occupations/forum) |
+|     Advanced Select    | [Binary Tree Nodes*](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/abf79585fa54c4fca4269ed3c4134a59e80e8310/Select/New%20Companies) |
+|     Advanced Select    | [New Companies*](https://www.hackerrank.com/challenges/the-company/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/e4bd6293dd0ef92404b7efcbc4aa3ba82f86c3e7/Select/New%20Companies) |
+
 
 |     Basic Select    | [Weather Observation Station ]()                                         |[MySQL Solution]() |
 
