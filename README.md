@@ -26,6 +26,16 @@
 |     Advanced Select    | [Occupations**](https://www.hackerrank.com/challenges/occupations/problem)                                         |[MySQL Solution](https://www.hackerrank.com/challenges/occupations/forum) |
 |     Advanced Select    | [Binary Tree Nodes*](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/abf79585fa54c4fca4269ed3c4134a59e80e8310/Select/New%20Companies) |
 |     Advanced Select    | [New Companies*](https://www.hackerrank.com/challenges/the-company/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/e4bd6293dd0ef92404b7efcbc4aa3ba82f86c3e7/Select/New%20Companies) |
+|     Aggregation    | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)  |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/a12f911e9471d04a6083d4eec086c1583975ef89/Select/Revising%20Aggregations%20-%20The%20Count%20Function) |
+|     Aggregation    | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/bb323de1881efb74c0b36123be4b2280b23d4e50/Select/Revising%20Aggregations%20-%20The%20Sum%20Function) |
+|     Aggregation    | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/db259aad23760b75a6e1572ac5c3bfe024041bb9/Select/Revising%20Aggregations%20-%20Averages) |
+|     Aggregation    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/bd22b78ed245109713a5d46a28fd3a49625cab41/Select/Average%20Population) |
+|     Aggregation    | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/ac739f3bf3258d24e81231ef6c42d5e17d1f36a6/Select/Japan%20Population) |
+
+
+
+
+
 
 
 |     Basic Select    | [Weather Observation Station ]()                                         |[MySQL Solution]() |
