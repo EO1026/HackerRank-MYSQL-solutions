@@ -31,10 +31,6 @@
 |     Aggregation    | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/db259aad23760b75a6e1572ac5c3bfe024041bb9/Select/Revising%20Aggregations%20-%20Averages) |
 |     Aggregation    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/bd22b78ed245109713a5d46a28fd3a49625cab41/Select/Average%20Population) |
 |     Aggregation    | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/ac739f3bf3258d24e81231ef6c42d5e17d1f36a6/Select/Japan%20Population) |
-
-
-
-
 |     Aggregation    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem
 )  |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/Population%20Density%20Difference) |
 |     Aggregation    | [The Blunder*](https://www.hackerrank.com/challenges/the-blunder/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/The%20Blunder) |
