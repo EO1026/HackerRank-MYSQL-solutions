@@ -35,6 +35,12 @@
 
 
 
+|     Aggregation    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem
+)  |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/Population%20Density%20Difference) |
+|     Aggregation    | [The Blunder*](https://www.hackerrank.com/challenges/the-blunder/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/The%20Blunder) |
+|     Aggregation    | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/Top%20Earners) |
+|     Aggregation    | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/Weather%20Observation%20Station%202) |
+|     Aggregation    | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/dd32eb10c2bb33a441f4e7a4a0b4f67f1ddc2b65/Select/Weather%20Observation%20Station%2013) |
 
 
 
