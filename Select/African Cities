@@ -1,0 +1,3 @@
+SELECT City.Name FROM City Inner Join Country 
+ON CountryCode = Code
+WHERE Continent = 'Africa'
