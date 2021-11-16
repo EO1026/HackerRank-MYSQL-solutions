@@ -1,0 +1,17 @@
+
+SELECT co.CONTINENT, FLOOR(avg(ci.population))
+FROM country as co 
+INNER JOIN city as ci
+ON ci.countrycode = co.code
+GROUP BY co.continent 
+
+
+or
+
+SELECT co.CONTINENT, round(avg(ci.population)-0.5)
+FROM country as co 
+INNER JOIN city as ci
+ON ci.countrycode = co.code
+GROUP BY co.continent 
+
+
