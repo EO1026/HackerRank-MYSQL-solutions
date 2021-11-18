@@ -45,6 +45,11 @@
 |     Aggregation    | [Weather Observation Station 20*](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/9011f657eb37449868b701dbd6086835eafc2cb8/Select/Weather%20Observation%20Station%2020) |
 
 
+
+|     Basic Join    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/559abd16fa0f74b458efdcc7326694946f777efa/Select/African%20Cities) |
+|     Basic Join    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/5b39fa4da5319140880cb5c79c6c6f5041dba6a4/Select/Average%20Population%20of%20Each%20Continent) |
+
+
 |     Basic Select    | [Weather Observation Station ]()                                         |[MySQL Solution]() |
 
 
