@@ -43,11 +43,14 @@
 |     Aggregation    | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/7dca393c66c1657dcd08c2065811198acef619d7/Select/Weather%20Observation%20Station%2018) |
 |     Aggregation    | [Weather Observation Station 19*](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/e8ea58ca71829cff07489111567454e246edd2b4/Select/Weather%20Observation%20Station%2019) |
 |     Aggregation    | [Weather Observation Station 20*](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/9011f657eb37449868b701dbd6086835eafc2cb8/Select/Weather%20Observation%20Station%2020) |
-
-
-
 |     Basic Join    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/559abd16fa0f74b458efdcc7326694946f777efa/Select/African%20Cities) |
 |     Basic Join    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/5b39fa4da5319140880cb5c79c6c6f5041dba6a4/Select/Average%20Population%20of%20Each%20Continent) |
+|     Basic Join    | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/69826cd98df805b01fad6211b2f0a33059d2dca2/Select/Population%20Census) |
+|     Basic Join    | [The Report](https://www.hackerrank.com/challenges/the-report/problem)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/9f4867b42248c80d518f7aa168322ef5ec6adb92/Select/The%20Report) |
+|     Basic Join    | [Top Competitors*](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/58d0b5d14638e5da4f453ffdb488fe7042673dad/Select/Top%20Competitors) |
+|     Basic Join    | [The Report](https://www.hackerrank.com/challenges/the-report/problem)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/9f4867b42248c80d518f7aa168322ef5ec6adb92/Select/The%20Report) |
+|     Alternative Queries    | [Draw The Triangle 2*](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/71ac1e5c93c8d47cb803f7ebe651b639896727b4/Select/Draw%20The%20Triangle%202) |
+|     Alternative Queries    | [Print Prime Numbers*](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/3c10201d4fa63c13a507b6515410cc01090a40c4/Select/Print%20Prime%20Numbers) |
 
 
 |     Basic Select    | [Weather Observation Station ]()                                         |[MySQL Solution]() |
