@@ -53,9 +53,8 @@
 |     Basic Join    | [Challenges**](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/7f8251434552795745f7608ea1a7ee1150dd55f7/Select/Challenges) |
 |     Basic Join    | [Ollivander's Inventory* ](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/7676f005a8836d53238a558d5f05942265202831/Select/Ollivander's%20Inventory) |
 |     Advanced Join    | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/12f390c3208daed7873cdd1d86ef4243d8ad7688/Select/Placements) |
+|     Alternative Queries    | [Symmetric Pairs*](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/25fcea3d9b15be1700bf225303d69135f8eab666/Select/Symmetric%20Pairs) |
 |     Alternative Queries    | [Draw The Triangle 2*](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true)                                         |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/71ac1e5c93c8d47cb803f7ebe651b639896727b4/Select/Draw%20The%20Triangle%202) |
 |     Alternative Queries    | [Print Prime Numbers*](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true)              |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/3c10201d4fa63c13a507b6515410cc01090a40c4/Select/Print%20Prime%20Numbers) |
-
-
 
 
